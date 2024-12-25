@@ -1,0 +1,16 @@
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\bin\Debug\GorselUygProV1.exe.config
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\bin\Debug\GorselUygProV1.exe
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\bin\Debug\GorselUygProV1.pdb
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.csproj.AssemblyReference.cache
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.intro.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.Properties.Resources.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.csproj.GenerateResource.cache
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.csproj.CoreCompileInputs.cache
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.exe
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.pdb
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.login.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.Resource1.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.Resource2.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.anasayfa.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.urun.resources
+C:\Users\omerc\source\repos\GorselUygProV1\GorselUygProV1\obj\Debug\GorselUygProV1.RegisterForm.resources
