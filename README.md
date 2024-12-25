@@ -56,8 +56,11 @@ Uygulama üç ana tablo kullanır:
 - Veritabanı bağlantı hataları için try-catch blokları
 - Kullanıcı dostu hata mesajları
 - Form validasyonları
-![kayıtolmaformu](https://github.com/user-attachments/assets/92a70b85-0eaf-473f-8fb8-d65c61768e36)
-![loginformu](https://github.com/user-attachments/assets/430a3280-df8c-4881-b388-8bddd9c44b37)
-![geçisekranıformu](https://github.com/user-attachments/assets/a072f738-f0c6-4ff4-914f-9129dddacb7a)
-![urunkontrolformu1](https://github.com/user-attachments/assets/75f49324-fd7b-4f6d-b3c5-358b303a605f)
+![kayıtolmaformu](https://github.com/user-attachments/assets/0527fc10-8d29-4463-b33b-6dccfcf57fe1)
+![loginformu](https://github.com/user-attachments/assets/3e225157-1298-43eb-956b-7062d2d0728e)
+![geçisekranıformu](https://github.com/user-attachments/assets/13304af2-8a8d-4d55-a4e6-1019dabf3b94)
+![urunkontrolformu1](https://github.com/user-attachments/assets/5d769c88-df22-4e38-9451-1676e6e810a4)
+
+
+
 
